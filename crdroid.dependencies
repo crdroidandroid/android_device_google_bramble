@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_google_redbull",
+    "target_path": "device/google/redbull",
+    "branch": "14.0",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/scripts",
+    "target_path": "lineage/scripts",
+    "branch": "main",
+    "remote": "github"
+  }
+]
