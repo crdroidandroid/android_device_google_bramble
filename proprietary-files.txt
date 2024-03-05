@@ -101,9 +101,6 @@ product/priv-app/WfcActivation/WfcActivation.apk;PRESIGNED
 system_ext/etc/permissions/com.google.android.camera.extensions.xml
 system_ext/framework/com.google.android.camera.extensions.jar
 
-# HBM
-system_ext/priv-app/HbmSVManager/HbmSVManager.apk
-
 # Hotword
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
 system_ext/framework/com.android.hotwordenrollment.common.util.jar
