@@ -55,8 +55,6 @@ blob_fixups: blob_fixups_user_type = {
         .regex_replace('qulacomm', 'qualcomm'),
     'system_ext/lib64/libsecureuisvc_jni.so': blob_fixup()
         .add_needed('libgui_shim.so'),
-    'system_ext/priv-app/HbmSVManager/HbmSVManager.apk': blob_fixup()
-        .apktool_patch('HbmSVManager.patch'),
     'vendor/bin/hw/android.hardware.biometrics.fingerprint@2.2-service.fpc': blob_fixup()
         .replace_needed('android.frameworks.stats@1.0.so', 'lineage.frameworks.stats@1.0.so')
         .binary_regex_replace(b'_ZN7android10frameworks5stats', b'_ZN7lineage10frameworks5stats'),
