@@ -10,14 +10,8 @@ $(call inherit-product, device/google/redbull/device-lineage.mk)
 PRODUCT_PACKAGES += \
     android.hardware.camera.device-V2-ndk.vendor:64 \
     android.hardware.camera.provider-V2-ndk.vendor:64
-<<<<<<< HEAD
-=======
-
-# HBM
-PRODUCT_PACKAGES += \
-    HbmSVManagerOverlay
 
 # Wi-Fi
 PRODUCT_PACKAGES += \
     android.hardware.wifi-V2-ndk.vendor:64
->>>>>>> 42ba86d (bramble: Switch to barbet Wi-Fi service)
+
