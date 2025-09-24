@@ -2,7 +2,7 @@
   {
     "repository": "crdroidandroid/android_device_google_redbull",
     "target_path": "device/google/redbull",
-    "branch": "15.0",
+    "branch": "16.0",
     "remote": "github"
   }
 ]
