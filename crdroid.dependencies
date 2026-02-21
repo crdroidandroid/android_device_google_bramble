@@ -4,5 +4,11 @@
     "target_path": "device/google/redbull",
     "branch": "16.0",
     "remote": "github"
-  }
+  },
+  {
+    "repository": "crdroidandroid/proprietary_android_vendor_google_redfin",
+    "target_path": "vendor/google/redfin",
+    "branch": "main",
+    "remote": "crdroid-gitlab"
+    }
 ]
