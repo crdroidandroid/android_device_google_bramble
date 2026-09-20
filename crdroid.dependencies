@@ -4,5 +4,11 @@
     "target_path": "device/google/redbull",
     "branch": "16.0",
     "remote": "github"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_android_vendor_google_bramble",
+    "target_path": "vendor/google/bramble",
+    "branch": "17.0",
+    "remote": "crdroid-gitlab"
   }
 ]
